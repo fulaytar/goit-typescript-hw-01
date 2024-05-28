@@ -26,3 +26,4 @@ const page2 = {
   accounts: ["Alex"],
   status: "close",
 };
+export {};

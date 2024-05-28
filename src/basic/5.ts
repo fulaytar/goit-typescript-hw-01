@@ -14,3 +14,5 @@ const isWeekend = (day: DayOfWeek): boolean => {
 
 console.log(isWeekend(DayOfWeek.Friday)); // false
 console.log(isWeekend(DayOfWeek.Sunday)); // true
+
+
